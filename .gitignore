@@ -1,0 +1,13 @@
+# Compiled Java outputs
+/out/
+*.class
+
+# IntelliJ IDEA files (ignore user-specific workspace configurations)
+.idea/workspace.xml
+.idea/shelf/
+.idea/copilot/
+.idea/dictionaries/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
