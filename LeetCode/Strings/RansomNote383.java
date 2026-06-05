@@ -3,7 +3,7 @@ package LeetCode.Strings;
 import java.util.Hashtable;
 import java.util.Map;
 
-public class RansomNote282 {
+public class RansomNote383 {
 //    Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.
 //
 //    Each letter in magazine can only be used once in ransomNote.
@@ -58,7 +58,7 @@ public class RansomNote282 {
         return res;
     }
     public static void main(String[] args) {
-        RansomNote282 ransomNote282 = new RansomNote282();
-        System.out.println(ransomNote282.canConstruct("az", "ab"));
+        RansomNote383 ransomNote383 = new RansomNote383();
+        System.out.println(ransomNote383.canConstruct("az", "ab"));
     }
 }
